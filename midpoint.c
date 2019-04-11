@@ -1,7 +1,5 @@
 #include "data/scripts/dc_math/config.h"
 
-#include "data/scripts/dc_math/config.c"
-
 // Caskey, Damon V.
 // 2018-12-07
 //
